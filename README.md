@@ -9,9 +9,10 @@ Cấu hình máy:
 
 **Chi tiết:**
 Wifi mặc định không hoạt động
-Không thể chỉnh được độ sáng màn hình
+
 Có vấn đề hoặc sự cố khi dùng chế độ Sleep
 Nếu đang sử dụng jack cắm tai nghe, nên rút ra khi đang boot vào Hackintosh
-
+**Update:**
+Đã có thể chỉnh sửa được độ sáng màn hình
 **Cách dùng:**
 Copy thư mục CLOVER đã giải nén vào thư mục EFI 100MB, nếu đang tồn tại file CLOVER cũ cần xóa và thay thế
