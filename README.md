@@ -16,5 +16,7 @@ Nếu đang sử dụng jack cắm tai nghe, nên rút ra khi đang boot vào Ha
 **Update:**
 
 Đã có thể chỉnh sửa được độ sáng màn hình, fix được lỗi gắn jack cắm tai nghe bị shutdown
+
 **Cách dùng:**
+
 Copy thư mục CLOVER đã giải nén vào thư mục EFI 100MB, nếu đang tồn tại file CLOVER cũ cần xóa và thay thế
