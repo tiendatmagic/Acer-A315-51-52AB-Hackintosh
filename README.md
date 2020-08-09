@@ -19,6 +19,8 @@ Nếu đang sử dụng jack cắm tai nghe, nên rút ra khi đang boot vào Ha
 
 File CLOVEREFI2 được sử dụng để cài đặt Mac OS Catalina 15.5 trở lên
 
+File CLOVEREFI3 đã fix được lỗi hiển thị PIN trên Mac OS Catalina 15.5 trở lên
+
 Phiên bản mới nhất hiện tại: Clover 5120
 
 **Cách dùng:**
