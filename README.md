@@ -23,6 +23,8 @@ File CLOVEREFI3 đã fix được lỗi hiển thị PIN trên Mac OS Catalina 1
 
 Phiên bản mới nhất hiện tại: Clover 5120
 
+**Đã cập nhật EFI cho OpenCore**
+
 **Cách dùng:**
 
 Copy thư mục CLOVER đã giải nén vào thư mục EFI 100MB, nếu đang tồn tại file CLOVER cũ cần xóa và thay thế
