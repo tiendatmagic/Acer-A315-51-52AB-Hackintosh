@@ -21,7 +21,7 @@ File CLOVEREFI2 được sử dụng để cài đặt Mac OS Catalina 15.5 tr�
 
 File CLOVEREFI3 đã fix được lỗi hiển thị PIN trên Mac OS Catalina 15.5 trở lên
 
-File CLOVEREFI7 đã có thể cài thành công Mac OS Big Sur, lưu ý cần tắt Bitlocker trên những ổ khác, tích hợp sẵn driver **USB Wifi Comfast 810N**
+File CLOVEREFI8 đã có thể cài thành công Mac OS Big Sur, lưu ý cần tắt Bitlocker trên những ổ khác, tích hợp sẵn driver **USB Wifi Comfast 810N**
 
 Phiên bản mới nhất hiện tại: Clover 5127
 
