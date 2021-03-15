@@ -31,3 +31,5 @@ Phiên bản mới nhất hiện tại: Clover 5127
 **Cách dùng:**
 
 Copy thư mục CLOVER đã giải nén vào thư mục EFI 100MB, nếu đang tồn tại file CLOVER cũ cần xóa và thay thế
+
+Sau khi cài xong và boot vào Mac, ta nhớ nhấn phím F3 và chọn ổ Mac có tên Preboot
