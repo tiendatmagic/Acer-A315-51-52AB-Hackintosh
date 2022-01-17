@@ -24,6 +24,9 @@ File CLOVEREFI3 đã fix được lỗi hiển thị PIN trên Mac OS Catalina 1
 File CLOVEREFI8 đã có thể cài thành công Mac OS Big Sur, lưu ý cần tắt Bitlocker trên những ổ khác, tích hợp sẵn driver **USB Wifi Comfast 810N**
 
 File CLOVEREFI9 đã có thể sleep, đã sử dụng  đa điểm trên trackpad
+
+File CLOVEREFI10 đã có thể điều chỉnh được độ sáng màn hình dành cho Big Sur 11.2 trở lên
+
 Phiên bản mới nhất hiện tại: Clover 5127
 
 **Đã cập nhật EFI cho OpenCore**
